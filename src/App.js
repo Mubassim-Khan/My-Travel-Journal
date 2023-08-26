@@ -1,28 +1,31 @@
 import './App.css';
+import Card from './Components/Card';
+import Navbar from './Components/Navbar';
+import data from './Data';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
-        <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
-        </p>
-        <p className="small">
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </p>
-      </header>
-    </div>
+    <>
+      <Navbar />
+      <div className="container my-3">
+        <div className="row">
+          {data.map((item, id) => {
+            return <div className="col-md-4" key={id}>
+              <Card
+                key={item.id}
+                title={item.title}
+                location={item.location}
+                mapsLink={item.googleMapsLink}
+                startDate={item.date.startDate}
+                endDate={item.date.endDate}
+                description={item.description}
+                image={item.imgURL}
+              />
+            </div>
+          })}
+        </div>
+      </div>
+    </>
   );
 }
 
