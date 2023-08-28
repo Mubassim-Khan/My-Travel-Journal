@@ -1,4 +1,4 @@
-# Travel Joural
+# Travel Joural 
 
 Travel Journal is a React JS based dynamic website styled with Bootstrap, Google Fonts & Font Awesome. It consists of 3 sections:
 - Home -> Contains total of 12 cards of famous places all around the world.
