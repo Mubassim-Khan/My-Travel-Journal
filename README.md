@@ -6,17 +6,19 @@ Travel Journal is a React JS based dynamic website styled with Bootstrap, Google
 - Connect with me -> Some links of social media to connect with me. 
 
 ## Preview
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/879c52ae-09df-48d3-9d5a-8a60dbc2fe66/deploy-status)](https://app.netlify.com/sites/m-travel-journal/deploys)
 <!-- Home -->
 
-![Home Page]()
+![Home Page](https://github.com/Mubassim-Khan/My-Travel-Jornal/blob/main/src/Components/Preview_Home.png)
 
 <!-- About -->
 
-![About Section]()
+![About Section](https://github.com/Mubassim-Khan/My-Travel-Jornal/blob/main/src/Components/Preview_About.png)
 
 <!-- Contact -->
 
-![Contact Section]()
+![Contact Section](https://github.com/Mubassim-Khan/My-Travel-Jornal/blob/main/src/Components/Preview_Contact.png)
 
 ## Features
 
