@@ -6,15 +6,12 @@ Travel Journal is a React JS based dynamic website styled with Bootstrap, Google
 - Connect with me -> Some links of social media to connect with me. 
 
 ## Preview
-<!-- Home -->
 
 ![Home Page]()
 
-<!-- About -->
 
 ![About Section]()
 
-<!-- Contact -->
 
 ![Contact Section]()
 
