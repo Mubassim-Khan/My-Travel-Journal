@@ -1,4 +1,4 @@
-# Travel Joural 
+# Travel Journal 
 
 Travel Journal is a React JS based dynamic website styled with Bootstrap, Google Fonts & Font Awesome. It consists of 3 sections:
 - Home -> Contains total of 12 cards of famous places all around the world.
@@ -63,7 +63,7 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
 
-- Your Name : [Mubassim Ahmed Khan](https://www.linkedin.com/in/mubassim-ahmed-khan-8b835025a/)
+- LinkedIn: [Mubassim Ahmed Khan](https://www.linkedin.com/in/mubassim-ahmed-khan/)
 - Email: [mubassimkhan@gmail.com](mailto:mubassimkhan@gmail.com)
 
 ---
