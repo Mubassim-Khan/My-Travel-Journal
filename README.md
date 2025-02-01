@@ -1,19 +1,25 @@
-# Travel Joural
+# Travel Journal 
 
 Travel Journal is a React JS based dynamic website styled with Bootstrap, Google Fonts & Font Awesome. It consists of 3 sections:
 - Home -> Contains total of 12 cards of famous places all around the world.
 - About -> A breif detail about website's functionality & compatiablity.
 - Connect with me -> Some links of social media to connect with me. 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/879c52ae-09df-48d3-9d5a-8a60dbc2fe66/deploy-status)](https://app.netlify.com/sites/m-travel-journal/deploys)
+
 ## Preview
 
-![Home Page]()
+<!-- Home -->
 
+![Home Page](https://github.com/Mubassim-Khan/My-Travel-Jornal/blob/main/src/Components/Preview_Home.png)
 
-![About Section]()
+<!-- About -->
 
+![About Section](https://github.com/Mubassim-Khan/My-Travel-Jornal/blob/main/src/Components/Preview_About.png)
 
-![Contact Section]()
+<!-- Contact -->
+
+![Contact Section](https://github.com/Mubassim-Khan/My-Travel-Jornal/blob/main/src/Components/Preview_Contact.png)
 
 ## Features
 
@@ -41,7 +47,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Mubassim-Khan/Travel-Journal-React-JS
+git clone https://github.com/Mubassim-Khan/Travel-Journal-React-JS.git
 ```
 
 2. Open the project in your preferred code editor.
@@ -58,40 +64,8 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
 
-- Your Name : [Mubassim Ahmed Khan](https://www.linkedin.com/in/mubassim-ahmed-khan-8b835025a/)
+- LinkedIn: [Mubassim Ahmed Khan](https://www.linkedin.com/in/mubassim/)
 - Email: [mubassimkhan@gmail.com](mailto:mubassimkhan@gmail.com)
 
 ---
 <!------->
-
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
